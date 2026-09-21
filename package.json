@@ -1,0 +1,26 @@
+{
+  "name": "varbotgroupandchannel",
+  "version": "1.0.0",
+  "description": "VarBotGroupandchannel - WhatsApp Bot untuk komunitas VarCodexz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "varcodexz"
+  ],
+  "author": "VarCodexz",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.5.0",
+    "gtts": "^0.2.1",
+    "axios": "^1.7.7",
+    "moment-timezone": "^0.5.46",
+    "chalk": "^4.1.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
